@@ -22,5 +22,3 @@ npm run dev
 - `src/components/Hero.jsx`: the big first screen.
 - `src/index.css`: loads Tailwind.
 - `vite.config.js`: switches Tailwind on.
-
-Change "Ana" to your own name, write your own intro, and swap `purple` for your own colour.
